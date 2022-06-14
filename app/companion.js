@@ -389,7 +389,7 @@ export default class CompanionAppListener {
       maxzspendable,
       tokenName,
       zecprice,
-      serverversion: '0.5.3'
+      serverversion: '0.6.0'
     };
 
     return JSON.stringify(resp);
